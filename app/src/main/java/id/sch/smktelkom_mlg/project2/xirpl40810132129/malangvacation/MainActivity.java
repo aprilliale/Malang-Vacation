@@ -17,9 +17,5 @@ public class MainActivity extends AppCompatActivity {
         String hasil = null;
         InputStream is = null;
         StringBuilder sb = null;
-
-        try {
-
-        }
     }
 }
