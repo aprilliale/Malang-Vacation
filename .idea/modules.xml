@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Malang-Vacation_.iml" filepath="$PROJECT_DIR$/Malang-Vacation_.iml" />
       <module fileurl="file://$PROJECT_DIR$/MalangVacation.iml" filepath="$PROJECT_DIR$/MalangVacation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
